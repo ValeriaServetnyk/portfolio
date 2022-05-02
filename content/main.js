@@ -5,13 +5,13 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Valeria Servetnyk, and I create problems",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://facebook.com', show: true },
+      facebook: { link: 'https://www.facebook.com/valerie.alekseevna/', show: true },
       instagram: { link: 'https://instagram.com', show: true },
-      linkedin: { link: 'https://linkedin.com', show: true },
+      linkedin: { link: 'https://www.linkedin.com/in/valeriia-servetnyk/', show: true },
     },
     typed: [
       { text: 'fast websites.' },
@@ -22,7 +22,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'With my insights into the world of business that stem from years of experience across Europe and South Asia, as well as my optimistic attitude, I can facilitate business relationships with various stakeholders across countries and industries.\n',
   },
   features: [
     {
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Valeria Servetnyk' },
 };
