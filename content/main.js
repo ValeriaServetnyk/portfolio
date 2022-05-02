@@ -5,13 +5,19 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Valeria Servetnyk, and I create problems",
+    heading: "I'm Valeria, and I create problems",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://www.facebook.com/valerie.alekseevna/', show: true },
+      facebook: {
+        link: 'https://www.facebook.com/valerie.alekseevna/',
+        show: true,
+      },
       instagram: { link: 'https://instagram.com', show: true },
-      linkedin: { link: 'https://www.linkedin.com/in/valeriia-servetnyk/', show: true },
+      linkedin: {
+        link: 'https://www.linkedin.com/in/valeriia-servetnyk/',
+        show: true,
+      },
     },
     typed: [
       { text: 'fast websites.' },
